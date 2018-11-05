@@ -1,5 +1,9 @@
 # Sagit Logo Generator
 
+## Instruction for making your own generator.
+
+See [wiki](https://github.com/moonheart/sagit-logo-gen/wiki).
+
 ## How to use (Windows)
 
 1. Download this project and goto `GenLogo` folder.
