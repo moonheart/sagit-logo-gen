@@ -1,0 +1,9 @@
+按照自己的喜好，修改这四张图片，然后运行GenLogo.exe,会生成logo_new.img. 
+
+注意不能修改文件名！
+
+如果程序报错，请按照.net 4.5.2，具体百度。
+
+通过命令 fastboot flash logo logo_new.img 刷入即可
+
+源码：https://github.com/moonheart/sagit-logo-gen/tree/MIPAD_clover
