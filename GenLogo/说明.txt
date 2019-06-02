@@ -6,4 +6,4 @@
 
 通过命令 fastboot flash logo logo_new.img 刷入即可
 
-源码：https://github.com/moonheart/sagit-logo-gen/tree/MIPAD_clover
+源码：https://github.com/moonheart/sagit-logo-gen/tree/K20Pro_raphael
